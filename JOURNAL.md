@@ -1,4 +1,19 @@
-Timeline - Total time: 
+Timeline - Total time: 4.7 Hours
+
+Finalization and Completion
+It's finally complete! After the last update, I added some softer corners, rendered it, edited the repo, and made everything complete. I topped it all off with a "Blueprint" branding in the back, which brought this project to life. That's all. Thanks!
+
+Renders:
+<img width="985" height="692" alt="image" src="https://github.com/user-attachments/assets/adef513c-2cb6-4f35-aa3c-955e076dda2d" />
+<img width="1329" height="678" alt="image" src="https://github.com/user-attachments/assets/85503f98-092d-4f64-a906-b793d6915d5e" />
+
+Fusion Pictures:
+<img width="1218" height="786" alt="image" src="https://github.com/user-attachments/assets/8b993434-ca70-487e-94c1-8d7aa8a8e632" />
+<img width="1209" height="799" alt="image" src="https://github.com/user-attachments/assets/5be3206b-ed50-4df7-85bc-aa4cd425d38c" />
+
+Slicer:
+<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/7e8db1e5-df0b-4d2c-bda9-4b155b44297c" />
+
 
 Sectional Analysis <br>
 I learned sectional analysis to make sure the parts would fit together nicely, and I ran into an issue. The stencil fit at the bottom, but at the top, they were the exact same size. To fix it, I tried to create some more room by still keeping walls thick, and nothing worked. I eventually just made the wells thinner from 3mm to about 1.5mm now. They should remain fairly strong and have no load under them, so this should be fine. Now, I just polish some stuff up and I'll be done!
